@@ -80,3 +80,10 @@ colors, font styles, etc.,
 to match your preferences
 or project requirements.
 
+Remember to create a styles.css
+file in the same directory as
+Form.js and App.js and import it
+in your HTML file or the root
+component file if you're using
+a tool like Create React App.
+
